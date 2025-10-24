@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "SRMsm@2025",
+    "database": "dbparcinfo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+  
+}
